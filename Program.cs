@@ -1,16 +1,5 @@
 ﻿using System;
 
-/*public class Appliance
-{
-    public string state;
-    public string name;
-    Appliance(string n)
-    {
-        state = "off";
-        name= n;
-    }
-
-}*/
 public class Program
 {
     static Dictionary<string,string> appliances = new Dictionary<string, string>();
